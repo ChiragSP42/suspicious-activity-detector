@@ -1,0 +1,7 @@
+Videos/
+*.csv
+.DS_Store
+__pycache__/
+.env
+*.mp4
+.vscode/

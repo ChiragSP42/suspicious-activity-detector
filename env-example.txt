@@ -1,0 +1,6 @@
+AWS_ACCESS_KEY = <your aws access key>
+AWS_SECRET_KEY = <your aws secret key>
+
+SNS_TOPIC_NAME = <your sns topic name>
+SQS_QUEUE_NAME = <your sqs queue name>
+SNS_ROLE_ARN = <arn of the role that allows rekognition to publish notification to sns>
